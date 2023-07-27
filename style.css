@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h1 {
+    background-color: blue;
+    text-align: center;
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    color: yellow;
+    padding: 10px;
+    margin: 30px;
+}
+#starters_image_div {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rgb(17, 79, 203);
+    border-radius: 10px; /* Adjust the value to make the corners rounded more or less */
+}
+
+.pokemon_images {
+    width: 150px;  
+    display: block;
+    margin: 0 auto; /* This will center the image horizontally within its container */
+}
+#bulbasaur_container{
+    background-color: rgb(131,186,54);
+    border-radius: 10px;
+    border: 5px solid rgb(228, 228, 103);
+    padding: 20px;
+    margin: 20px; 
+} 
+#charmander_container{
+    background-color: rgb(254,148,65);
+    border-radius: 10px;
+    border: 5px solid rgb(228, 228, 103);
+    padding: 20px;
+    margin: 20px;
+} 
+#squirtle_container{
+    background-color: rgb(147,200,208);
+    border-radius: 10px;
+    border: 5px solid rgb(228, 228, 103);
+    padding: 20px;
+    margin: 20px;
+} 
